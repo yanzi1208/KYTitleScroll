@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>最新</string>
+		<key>topURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/0/limit/20/time/1437320863/type/0?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+		<key>bottomURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/0/limit/20/time/1437295889/type/1?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>业界</string>
+		<key>topURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/5/limit/20/time/1437308055/type/0?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+		<key>bottomURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/5/limit/20/time/1437188462/type/1?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>看点</string>
+		<key>topURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/8/limit/20/time/1437313239/type/0?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+		<key>bottomURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/8/limit/20/time/1437010714/type/1?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>深度</string>
+		<key>topURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/4/limit/20/time/1437320863/type/0?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+		<key>bottomURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/4/limit/20/time/1437265910/type/1?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>运营</string>
+		<key>topURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/6/limit/20/time/1437267597/type/0?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+		<key>bottomURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/6/limit/20/time/1436522596/type/1?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>产品</string>
+		<key>topURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/3/limit/20/time/1437314630/type/0?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+		<key>bottomURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/3/limit/20/time/1436925656/type/1?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>技术</string>
+		<key>topURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/7/limit/20/time/1437297028/type/0?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+		<key>bottomURL</key>
+		<string>http://news.coolban.com/Api/Index/news_list/app/2/cat/7/limit/20/time/1436879689/type/1?channel=appstore&amp;uuid=1EEB2675-966C-45CC-996C-2FBE96544D23&amp;net=5&amp;model=iPhone&amp;ver=1.0.5</string>
+	</dict>
+</array>
+</plist>
